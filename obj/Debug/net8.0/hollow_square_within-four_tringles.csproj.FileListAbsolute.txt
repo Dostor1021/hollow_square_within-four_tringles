@@ -1,0 +1,14 @@
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\bin\Debug\net8.0\hollow_square_within-four_tringles.exe
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\bin\Debug\net8.0\hollow_square_within-four_tringles.deps.json
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\bin\Debug\net8.0\hollow_square_within-four_tringles.runtimeconfig.json
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\bin\Debug\net8.0\hollow_square_within-four_tringles.dll
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\bin\Debug\net8.0\hollow_square_within-four_tringles.pdb
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.AssemblyInfoInputs.cache
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.AssemblyInfo.cs
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.dll
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\refint\hollow_square_within-four_tringles.dll
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.pdb
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\hollow_square_within-four_tringles.genruntimeconfig.cache
+C:\Users\aaa\source\Git\hollow_square_within-four_tringles\hollow_square_within-four_tringles\obj\Debug\net8.0\ref\hollow_square_within-four_tringles.dll
